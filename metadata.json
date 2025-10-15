@@ -1,0 +1,5 @@
+{
+  "name": "Farm Report Generator",
+  "description": "An interactive web application for creating, managing, and exporting farm production reports. Users can import data from JSON, add or edit entries, and export reports to JSON or PDF formats.",
+  "requestFramePermissions": []
+}
